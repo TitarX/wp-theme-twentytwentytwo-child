@@ -1,0 +1,1 @@
+# wp-theme-twentytwentytwo-child
